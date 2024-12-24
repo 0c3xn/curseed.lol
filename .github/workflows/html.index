@@ -1,0 +1,20 @@
+<section class="skid drag">
+  <ol class="slides">
+    <li class="active" id="first">
+      <!-- Content -->
+    </li><li id="second">
+      <!-- Content -->
+    </li><li id="third">
+      <!-- Content -->
+    </li>
+  </ol>
+  <nav>
+    <a href="#/third" class="prior">Prior</a>
+    <ol>
+      <li><a href="#/first" class="active">1</a></li>
+      <li><a href="#/second">2</a></li>
+      <li><a href="#/third">3</a></li>
+    </ol>
+    <a href="#/second" class="next">Next</a>
+  </nav>
+</section>
